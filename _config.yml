@@ -1,1 +1,5 @@
 theme: jekyll-theme-tactile
+minima:
+  social_links:
+    twitter: cw_feldmann
+    github: c-feldmann
